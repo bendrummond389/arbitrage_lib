@@ -1,0 +1,5 @@
+[sepolia]
+ethereum_node_url = "https://sepolia.infura.io/v3/ed85b3e578124f7b861d35cd6e6a65fc"
+
+[mainnet]
+ethereum_node_url = "https://mainnet.infura.io/v3/ed85b3e578124f7b861d35cd6e6a65fc"
