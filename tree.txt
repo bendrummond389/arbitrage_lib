@@ -1,18 +1,12 @@
 .
 ├── Cargo.lock
 ├── Cargo.toml
+├── abis
+│   └── IUniswapV2Factory.json
 ├── src
-│   ├── config
-│   │   ├── config.rs
-│   │   └── config.toml
+│   ├── contract_utils.rs
 │   ├── lib.rs
-│   ├── main.rs
-│   ├── price_fetch
-│   │   ├── mod.rs
-│   │   └── uniswap.rs
-│   └── trade_execution
-│       ├── mod.rs
-│       └── uniswap.rs
+│   └── main.rs
 └── tree.txt
 
-5 directories, 11 files
+3 directories, 7 files
